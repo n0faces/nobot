@@ -1,0 +1,9 @@
+{
+    "TOKEN": "",
+    "owner": "",
+    "command_prefix": "~",
+    "commands_on_edit": true,
+    "log_file": "json/logs/logs.log",
+    "log_messages": true,
+    "log_commands": true
+}
